@@ -2,4 +2,3 @@ this is test 4
 this is test 4 line 2
 this is test4 from main
 this is test 4 hot fix 1
-this is fix in master 1
